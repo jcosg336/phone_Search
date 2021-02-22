@@ -1,6 +1,6 @@
-Program: phone_Search.py
-Author: jcosg336
-Date: 2/14/2020
+Program: phone_Search.py  
+Author: jcosg336  
+Date: 2/14/2020  
 
 This program allows a user to search a database for the first and last name and
 phone number of the entries listed in the phones.txt file. The program accepts a
